@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1590164683 source:c:\users\Äðþíÿ\desktop\rgr\main.cpp
+	<iostream>
+	<locale>
+	<vector>
+	<fstream>
+	<sstream>
+	<windows.h>
+
